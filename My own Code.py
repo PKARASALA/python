@@ -1,1 +1,1 @@
-print(range(4))
+print('This is my own program'
